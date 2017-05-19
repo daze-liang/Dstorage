@@ -1,1 +1,2 @@
 # Dstorage
+##deselectall
